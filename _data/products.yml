@@ -1,0 +1,479 @@
+- id: 2000
+  name: "Handcrafted Fabric Art 1"
+  description: "A unique handcrafted fabric piece, perfect for home decor or gifting. Made with care and vibrant colors."
+  price: 400
+  image: "/assets/products/IMG-20250403-WA0016.jpg"
+
+- id: 2001
+  name: "Handcrafted Fabric Art 2"
+  description: "Beautifully designed fabric art, ideal for adding a touch of elegance to any room."
+  price: 500
+  image: "/assets/products/IMG-20250403-WA0015.jpg"
+
+- id: 2002
+  name: "Handcrafted Fabric Art 3"
+  description: "A stunning piece of fabric art, showcasing intricate patterns and craftsmanship."
+  price: 450
+  image: "/assets/products/IMG-20250403-WA0014.jpg"
+
+- id: 2003
+  name: "Handcrafted Fabric Art 4"
+  description: "Elegant and colorful, this fabric art piece is perfect for brightening up your living space."
+  price: 600
+  image: "/assets/products/IMG-20250403-WA0013.jpg"
+
+- id: 2004
+  name: "Handcrafted Fabric Art 5"
+  description: "A vibrant and artistic fabric creation, ideal for unique home decoration."
+  price: 400
+  image: "/assets/products/IMG-20250403-WA0012.jpg"
+
+- id: 2005
+  name: "Handcrafted Fabric Art 6"
+  description: "This handcrafted fabric art brings a splash of color and creativity to any setting."
+  price: 500
+  image: "/assets/products/IMG-20250403-WA0011.jpg"
+
+- id: 2006
+  name: "Handcrafted Fabric Art 7"
+  description: "A beautiful example of textile artistry, perfect for art lovers and collectors."
+  price: 450
+  image: "/assets/products/IMG-20250403-WA0010.jpg"
+
+- id: 2007
+  name: "Handcrafted Fabric Art 8"
+  description: "Unique and eye-catching, this piece is sure to impress guests and family alike."
+  price: 600
+  image: "/assets/products/IMG-20250403-WA0009.jpg"
+
+- id: 2008
+  name: "Handcrafted Fabric Art 9"
+  description: "A delightful handcrafted fabric item, blending tradition with modern design."
+  price: 400
+  image: "/assets/products/IMG-20250403-WA0008.jpg"
+
+- id: 2009
+  name: "Handcrafted Fabric Art 10"
+  description: "This fabric art piece is a testament to skilled craftsmanship and artistic vision."
+  price: 500
+  image: "/assets/products/IMG-20250403-WA0007.jpg"
+
+- id: 2010
+  name: "Handcrafted Fabric Art 11"
+  description: "A charming and colorful addition to your home, made with love and attention to detail."
+  price: 450
+  image: "/assets/products/IMG-20250403-WA0006.jpg"
+
+- id: 2011
+  name: "Handcrafted Fabric Art 12"
+  description: "Brighten up your space with this unique and vibrant handcrafted fabric art."
+  price: 600
+  image: "/assets/products/IMG-20250403-WA0005.jpg"
+
+- id: 2012
+  name: "Handcrafted Fabric Art 13"
+  description: "A one-of-a-kind fabric art piece, perfect for those who appreciate handmade beauty."
+  price: 400
+  image: "/assets/products/IMG-20250403-WA0004.jpg"
+
+- id: 2013
+  name: "Handcrafted Fabric Art 14"
+  description: "This artistic fabric creation adds a touch of elegance and color to any room."
+  price: 500
+  image: "/assets/products/IMG-20250403-WA0003.jpg"
+
+- id: 2014
+  name: "Handcrafted Fabric Art 15"
+  description: "A beautiful blend of colors and patterns, handcrafted for a unique look."
+  price: 450
+  image: "/assets/products/IMG-20250403-WA0002.jpg"
+
+- id: 2015
+  name: "Handcrafted Fabric Art 16"
+  description: "A stunning piece of fabric art, perfect for gifting or personal use."
+  price: 600
+  image: "/assets/products/IMG-20250403-WA0001.jpg"
+
+- id: 2016
+  name: "Handcrafted Fabric Art 17"
+  description: "A vibrant and detailed fabric artwork, perfect for any modern home."
+  price: 450
+  image: "/assets/products/IMG-20250226-WA0065.jpg"
+
+- id: 2017
+  name: "Handcrafted Fabric Art 18"
+  description: "A colorful and unique piece, ideal for art lovers and collectors."
+  price: 600
+  image: "/assets/products/IMG-20250226-WA0064.jpg"
+
+- id: 2018
+  name: "Handcrafted Fabric Art 19"
+  description: "A beautiful blend of tradition and creativity in this fabric art."
+  price: 400
+  image: "/assets/products/IMG-20250226-WA0063.jpg"
+
+- id: 2019
+  name: "Handcrafted Fabric Art 20"
+  description: "A stunning handcrafted piece, perfect for adding color to your space."
+  price: 500
+  image: "/assets/products/IMG-20250226-WA0062.jpg"
+
+- id: 2020
+  name: "Handcrafted Fabric Art 21"
+  description: "A unique and elegant fabric art, made with love and care."
+  price: 450
+  image: "/assets/products/IMG-20250226-WA0061.jpg"
+
+- id: 2021
+  name: "Handcrafted Fabric Art 22"
+  description: "A delightful piece of fabric art, perfect for any room."
+  price: 600
+  image: "/assets/products/IMG-20250226-WA0060.jpg"
+
+- id: 2022
+  name: "Handcrafted Fabric Art 23"
+  description: "A creative and colorful addition to your home decor."
+  price: 400
+  image: "/assets/products/IMG-20250226-WA0059.jpg"
+
+- id: 2023
+  name: "Handcrafted Fabric Art 24"
+  description: "A beautiful example of modern textile art."
+  price: 500
+  image: "/assets/products/IMG-20250226-WA0058.jpg"
+
+- id: 2024
+  name: "Handcrafted Fabric Art 25"
+  description: "A vibrant and eye-catching fabric art piece."
+  price: 450
+  image: "/assets/products/IMG-20250226-WA0056.jpg"
+
+- id: 2025
+  name: "Handcrafted Fabric Art 26"
+  description: "A unique and colorful handcrafted fabric creation."
+  price: 600
+  image: "/assets/products/IMG-20250226-WA0054.jpg"
+
+- id: 2026
+  name: "Handcrafted Fabric Art 27"
+  description: "A stunning piece of fabric art, perfect for gifting."
+  price: 400
+  image: "/assets/products/IMG-20250226-WA0055.jpg"
+
+- id: 2027
+  name: "Handcrafted Fabric Art 28"
+  description: "A beautiful and detailed fabric art for your home."
+  price: 500
+  image: "/assets/products/IMG-20250226-WA0057.jpg"
+
+- id: 2028
+  name: "Handcrafted Fabric Art 29"
+  description: "A creative and elegant addition to your decor."
+  price: 450
+  image: "/assets/products/IMG-20250226-WA0053.jpg"
+
+- id: 2029
+  name: "Handcrafted Fabric Art 30"
+  description: "A vibrant and unique handcrafted fabric piece."
+  price: 600
+  image: "/assets/products/IMG-20250226-WA0052.jpg"
+
+- id: 2030
+  name: "Handcrafted Fabric Art 31"
+  description: "A colorful and artistic fabric creation."
+  price: 400
+  image: "/assets/products/IMG-20250226-WA0051.jpg"
+
+- id: 2031
+  name: "Handcrafted Fabric Art 32"
+  description: "A beautiful blend of colors and patterns in this fabric art."
+  price: 500
+  image: "/assets/products/IMG-20250226-WA0050.jpg"
+
+- id: 2032
+  name: "Handcrafted Fabric Art 33"
+  description: "A unique and elegant piece for your home."
+  price: 450
+  image: "/assets/products/IMG-20250226-WA0049.jpg"
+
+- id: 2033
+  name: "Handcrafted Fabric Art 34"
+  description: "A stunning handcrafted fabric art, perfect for any space."
+  price: 600
+  image: "/assets/products/IMG-20250226-WA0048.jpg"
+
+- id: 2034
+  name: "Handcrafted Fabric Art 35"
+  description: "A vibrant and creative fabric art piece."
+  price: 400
+  image: "/assets/products/IMG-20250226-WA0046.jpg"
+
+- id: 2035
+  name: "Handcrafted Fabric Art 36"
+  description: "A beautiful and colorful addition to your decor."
+  price: 500
+  image: "/assets/products/IMG-20250226-WA0047.jpg"
+
+- id: 2036
+  name: "Handcrafted Fabric Art 37"
+  description: "A unique and eye-catching fabric art creation."
+  price: 450
+  image: "/assets/products/IMG-20250226-WA0045.jpg"
+
+- id: 2037
+  name: "Handcrafted Fabric Art 38"
+  description: "A stunning piece of textile art, made with care."
+  price: 600
+  image: "/assets/products/IMG-20250226-WA0044.jpg"
+
+- id: 2038
+  name: "Handcrafted Fabric Art 39"
+  description: "A vibrant and detailed handcrafted fabric piece."
+  price: 400
+  image: "/assets/products/IMG-20250226-WA0042.jpg"
+
+- id: 2039
+  name: "Handcrafted Fabric Art 40"
+  description: "A beautiful and creative fabric art for your home."
+  price: 500
+  image: "/assets/products/IMG-20250226-WA0043.jpg"
+
+- id: 2040
+  name: "Handcrafted Fabric Art 41"
+  description: "A charming and colorful handcrafted fabric piece for your living space."
+  price: 450
+  image: "/assets/products/IMG-20250226-WA0041.jpg"
+
+- id: 2041
+  name: "Handcrafted Fabric Art 42"
+  description: "A unique and vibrant textile art, perfect for modern interiors."
+  price: 600
+  image: "/assets/products/IMG-20250226-WA0040.jpg"
+
+- id: 2042
+  name: "Handcrafted Fabric Art 43"
+  description: "A beautiful blend of colors and patterns in this fabric masterpiece."
+  price: 400
+  image: "/assets/products/IMG-20250226-WA0039.jpg"
+
+- id: 2043
+  name: "Handcrafted Fabric Art 44"
+  description: "A creative and elegant addition to your home decor."
+  price: 500
+  image: "/assets/products/IMG-20250226-WA0038.jpg"
+
+- id: 2044
+  name: "Handcrafted Fabric Art 45"
+  description: "A stunning piece of fabric art, perfect for gifting or personal use."
+  price: 450
+  image: "/assets/products/IMG-20250226-WA0037.jpg"
+
+- id: 2045
+  name: "Handcrafted Fabric Art 46"
+  description: "A vibrant and artistic fabric creation, ideal for unique home decoration."
+  price: 600
+  image: "/assets/products/IMG-20250226-WA0036.jpg"
+
+- id: 2046
+  name: "Handcrafted Fabric Art 47"
+  description: "A beautiful example of textile artistry, perfect for art lovers and collectors."
+  price: 400
+  image: "/assets/products/IMG-20250226-WA0035.jpg"
+
+- id: 2047
+  name: "Handcrafted Fabric Art 48"
+  description: "A unique and colorful handcrafted fabric creation."
+  price: 500
+  image: "/assets/products/IMG-20250226-WA0034.jpg"
+
+- id: 2048
+  name: "Handcrafted Fabric Art 49"
+  description: "A stunning piece of fabric art, perfect for adding color to your space."
+  price: 450
+  image: "/assets/products/IMG-20250226-WA0033.jpg"
+
+- id: 2049
+  name: "Handcrafted Fabric Art 50"
+  description: "A vibrant and detailed handcrafted fabric piece."
+  price: 600
+  image: "/assets/products/IMG-20250226-WA0032.jpg"
+
+- id: 2050
+  name: "Handcrafted Fabric Art 51"
+  description: "A beautiful and creative fabric art for your home."
+  price: 400
+  image: "/assets/products/IMG-20250226-WA0031.jpg"
+
+- id: 2051
+  name: "Handcrafted Fabric Art 52"
+  description: "A unique and elegant piece for your home."
+  price: 500
+  image: "/assets/products/IMG-20250226-WA0030.jpg"
+
+- id: 2052
+  name: "Handcrafted Fabric Art 53"
+  description: "A vibrant and unique handcrafted fabric piece."
+  price: 450
+  image: "/assets/products/IMG-20250226-WA0029.jpg"
+
+- id: 2053
+  name: "Handcrafted Fabric Art 54"
+  description: "A colorful and artistic fabric creation."
+  price: 600
+  image: "/assets/products/IMG-20250226-WA0027.jpg"
+
+- id: 2054
+  name: "Handcrafted Fabric Art 55"
+  description: "A beautiful blend of colors and patterns in this fabric art."
+  price: 400
+  image: "/assets/products/IMG-20250226-WA0026.jpg"
+
+- id: 2055
+  name: "Handcrafted Fabric Art 56"
+  description: "A unique and elegant fabric art, made with love and care."
+  price: 500
+  image: "/assets/products/IMG-20250226-WA0025.jpg"
+
+- id: 2056
+  name: "Handcrafted Fabric Art 57"
+  description: "A stunning handcrafted piece, perfect for adding color to your space."
+  price: 450
+  image: "/assets/products/IMG-20250226-WA0024.jpg"
+
+- id: 2057
+  name: "Handcrafted Fabric Art 58"
+  description: "A vibrant and detailed fabric artwork, perfect for any modern home."
+  price: 600
+  image: "/assets/products/IMG-20250226-WA0023.jpg"
+
+- id: 2058
+  name: "Handcrafted Fabric Art 59"
+  description: "A beautiful and unique piece, ideal for art lovers and collectors."
+  price: 400
+  image: "/assets/products/IMG-20250226-WA0022.jpg"
+
+- id: 2059
+  name: "Handcrafted Fabric Art 60"
+  description: "A creative and colorful addition to your home decor."
+  price: 500
+  image: "/assets/products/IMG-20250226-WA0021.jpg"
+
+- id: 2060
+  name: "Handcrafted Fabric Art 61"
+  description: "A stunning piece of textile art, made with care."
+  price: 450
+  image: "/assets/products/IMG-20250226-WA0020.jpg"
+
+- id: 2061
+  name: "Handcrafted Fabric Art 62"
+  description: "A vibrant and creative fabric art piece."
+  price: 600
+  image: "/assets/products/IMG-20250226-WA0019.jpg"
+
+- id: 2062
+  name: "Handcrafted Fabric Art 63"
+  description: "A beautiful and colorful addition to your decor."
+  price: 400
+  image: "/assets/products/IMG-20250226-WA0018.jpg"
+
+- id: 2063
+  name: "Handcrafted Fabric Art 64"
+  description: "A unique and eye-catching fabric art creation."
+  price: 500
+  image: "/assets/products/IMG-20250226-WA0017.jpg"
+
+- id: 2064
+  name: "Handcrafted Fabric Art 65"
+  description: "A stunning piece of fabric art, perfect for gifting or personal use."
+  price: 450
+  image: "/assets/products/IMG-20250226-WA0016.jpg"
+
+- id: 2065
+  name: "Handcrafted Fabric Art 66"
+  description: "A vibrant and artistic fabric creation, ideal for unique home decoration."
+  price: 600
+  image: "/assets/products/IMG-20250226-WA0015.jpg"
+
+- id: 2066
+  name: "Handcrafted Fabric Art 67"
+  description: "A beautiful example of textile artistry, perfect for art lovers and collectors."
+  price: 400
+  image: "/assets/products/IMG-20250226-WA0014.jpg"
+
+- id: 2067
+  name: "Handcrafted Fabric Art 68"
+  description: "A unique and colorful handcrafted fabric creation."
+  price: 500
+  image: "/assets/products/IMG-20250226-WA0013.jpg"
+
+- id: 2068
+  name: "Handcrafted Fabric Art 69"
+  description: "A stunning piece of fabric art, perfect for adding color to your space."
+  price: 450
+  image: "/assets/products/IMG-20250226-WA0012.jpg"
+
+- id: 2069
+  name: "Handcrafted Fabric Art 70"
+  description: "A vibrant and detailed handcrafted fabric piece."
+  price: 600
+  image: "/assets/products/IMG-20250226-WA0010.jpg"
+
+- id: 2070
+  name: "Handcrafted Fabric Art 71"
+  description: "A beautiful and creative fabric art for your home."
+  price: 400
+  image: "/assets/products/IMG-20250226-WA0011.jpg"
+
+- id: 2071
+  name: "Handcrafted Fabric Art 72"
+  description: "A unique and elegant piece for your home."
+  price: 500
+  image: "/assets/products/IMG-20250226-WA0009.jpg"
+
+- id: 2072
+  name: "Handcrafted Fabric Art 73"
+  description: "A vibrant and unique handcrafted fabric piece."
+  price: 450
+  image: "/assets/products/IMG-20250226-WA0008.jpg"
+
+- id: 2073
+  name: "Handcrafted Fabric Art 74"
+  description: "A colorful and artistic fabric creation."
+  price: 600
+  image: "/assets/products/IMG-20250226-WA0007.jpg"
+
+- id: 2074
+  name: "Handcrafted Fabric Art 75"
+  description: "A beautiful blend of colors and patterns in this fabric art."
+  price: 400
+  image: "/assets/products/IMG-20250226-WA0006.jpg"
+
+- id: 2075
+  name: "Handcrafted Fabric Art 76"
+  description: "A unique and elegant fabric art, made with love and care."
+  price: 500
+  image: "/assets/products/IMG-20250226-WA0005.jpg"
+
+- id: 2076
+  name: "Handcrafted Fabric Art 77"
+  description: "A stunning handcrafted piece, perfect for adding color to your space."
+  price: 450
+  image: "/assets/products/IMG-20250226-WA0004.jpg"
+
+- id: 2077
+  name: "Handcrafted Fabric Art 78"
+  description: "A vibrant and detailed fabric artwork, perfect for any modern home."
+  price: 600
+  image: "/assets/products/IMG-20250226-WA0003.jpg"
+
+- id: 2078
+  name: "Handcrafted Fabric Art 79"
+  description: "A beautiful and unique piece, ideal for art lovers and collectors."
+  price: 400
+  image: "/assets/products/IMG-20250226-WA0002.jpg"
+
+- id: 2079
+  name: "Handcrafted Fabric Art 80"
+  description: "A creative and colorful addition to your home decor."
+  price: 500
+  image: "/assets/products/IMG-20250226-WA0001.jpg" 
