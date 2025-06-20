@@ -19,9 +19,12 @@ description: Welcome to RU Arts - Handmade eco-friendly fabric products with bea
                     <a href="{{ '/products' | relative_url }}" class="btn btn-primary">Shop Now</a>
                     <a href="{{ '/about' | relative_url }}" class="btn btn-secondary">Learn More</a>
                 </div>
+                <div class="relative">
+                <img src="{{ '/assets/images/webItems/bookmark2.jpg' | relative_url }}" alt="Handmade fabric products" class="rounded-lg shadow-lg">
+            </div>
             </div>
             <div class="relative">
-                <img src="{{ '/assets/images/background/ChatGPT Image Jun 18, 2025, 05_02_11 PM.png' | relative_url }}" alt="Handmade fabric products" class="rounded-lg shadow-xl">
+                <img src="{{ '/assets/images/webItems/pexels-berna-elif-359546580-20398749.jpg' | relative_url }}" alt="Handmade fabric products" class="rounded-lg shadow-xl">
             </div>
         </div>
     </div>
@@ -31,21 +34,30 @@ description: Welcome to RU Arts - Handmade eco-friendly fabric products with bea
 <section class="bg-gray-50 py-16">
     <div class="container">
         <h2 class="text-3xl font-display font-bold text-center text-gray-900 mb-12">Featured Products</h2>
+        <hr class="mb-8">
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {% for product in site.products limit:3 %}
-            <div class="bg-white rounded-lg shadow-md overflow-hidden">
-                <img src="{{ product.image }}" alt="{{ product.title }}" class="w-full h-64 object-cover">
-                <div class="p-6">
-                    <h3 class="text-xl font-display font-semibold text-gray-900">{{ product.title }}</h3>
-                    <p class="mt-2 text-gray-600">{{ product.description }}</p>
-                    <div class="mt-4 flex items-center justify-between">
-                        <span class="text-lg font-semibold text-accent-600">${{ product.price }}</span>
-                        <a href="{{ product.url }}" class="btn btn-secondary">View Details</a>
-                    </div>
-                </div>
+            
+            <div class="relative">
+                <img src="{{ '/assets/images/webItems/bookmark.jpg' | relative_url }}" alt="Handmade fabric products" class="rounded-lg shadow-xl">
             </div>
-            {% endfor %}
+            <div class="relative">
+                <img src="{{ '/assets/images/webItems/pexels-kubrakuzu-17128447.jpg' | relative_url }}" alt="Handmade fabric products" class="rounded-lg shadow-xl">
+            </div>
+            <div class="relative">
+                <img src="{{ 'assets\images\webItems\pexels-mlkbnl-18045177.jpg' | relative_url }}" alt="Handmade fabric products" class="rounded-lg shadow-xl">
+            </div>
+            <div class="relative">
+                <img src="{{ 'assets\images\webItems\pexels-paraskevi-vafiadou-1061573111-28272812.jpg' | relative_url }}" alt="Handmade fabric products" class="rounded-lg shadow-xl">
+            </div>
+            <div class="relative">
+                <img src="{{ 'assets\images\webItems\pexels-angela-chacon-140940805-20723184.jpg' | relative_url }}" alt="Handmade fabric products" class="rounded-lg shadow-xl">
+            </div>
+            <div class="relative">
+                <img src="{{ 'assets\images\webItems\pexels-ivan-silvester-46443721-23964020.jpg' | relative_url }}" alt="Handmade fabric products" class="rounded-lg shadow-xl">
+            </div>
         </div>
+        <br>
+        <hr class="mb-8">
         <div class="text-center mt-12">
             <a href="{{ '/products' | relative_url }}" class="btn btn-primary">View All Products</a>
         </div>
