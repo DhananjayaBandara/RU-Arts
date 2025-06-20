@@ -140,7 +140,8 @@ description: Explore our collection of hand-painted eco-friendly fabric products
                     </div>
                     <div class="product-info mt-4">
                         <h3 class="product-title text-xl font-semibold text-gray-800">{{ product.name }}</h3>
-                        <p class="product-price text-lg text-accent-600 font-bold">Rs. {{ product.price }}</p>
+                        <p class="product-price text-sm text-gray-500"><del>Rs. {{ product.price | times: 150 | divided_by: 100 }}</del></p>
+                        <p class="product-price text-lg text-accent-600 font-bold">Rs. {{ product.price}}</p>
                         <p class="product-id text-sm text-gray-500">Product ID: {{ product.id }}</p>
                         <p class="product-description text-sm text-gray-700">{{ product.description }}</p>
                     </div>
